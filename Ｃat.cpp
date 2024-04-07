@@ -1,5 +1,3 @@
-// Cat.cpp
-
 #include "Utils.h"
 
 Cat::Cat() : name(""), water(80), meat(80), veggie(80), money(100), stocks(0), alive(true) {}
