@@ -1,5 +1,3 @@
-// Game.cpp
-
 #include"Utils.h"
 
 void Game::run() {
